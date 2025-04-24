@@ -1,5 +1,8 @@
 ### Repositorio con las practicas de terraform vistas en el curso Terraform: de principiante a certificado
 
+> .[!NOTE].
+> Está es una nota
+
 ---
 
 ![Terraform: De principiante a certificado](/images/Portada%20curso.jpg)
